@@ -18,8 +18,8 @@ From 2011 to 2014, the highest number of orders was 14,182 in 2013. The reason m
 
 The top 5 customers with the highest revenue spend approximately $13.3K.
 ### 2.2 Customer Profiling
-![CP](https://github.com/phuonght3001/AdventureWorks-Customer-Analysis---Power-BI/assets/150796721/0315f4ce-4609-47be-aa21-3a0137359a71)
-The customer with the most spending is Hannah H Clark with a total of 5 orders worth approximately $13.3K.C
+![CP](https://github.com/phuonght3001/AdventureWorks-Customer-Analysis---Power-BI/assets/150796721/603ae2f4-6103-4dd2-a83c-51ee81b7385b)
+The customer with the most spending is Hannah H Clark with a total of 5 orders worth approximately $13.3K.
 
 Customer Profiling is divided according to the following characteristics:
 - Marital Status: married customers have a larger number (54.82%) than single customers (45.18%).
