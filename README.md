@@ -40,7 +40,65 @@ In general, each country has the most popular and purchased products:
 - Northwest, Australia, Germany: Water Bottle - 30oz is the most purchased.
 - Northeast: Long-Sleeve Logo Jersey,L is the most purchased.
 
+Top 5 colors of products with the highest revenue: Black, Red, Silver, Yellow, Blue.
+
+Top 4 most purchased products according to each price level:
+- Price $4.99: Water Bottle - 30oz
+- Price $8.99: AWC Logo Cap
+- Price $34.99: Sport-100 Helmet, Blue
+- Price $49.99: Long-Sleeve Logo Jersey, L
+
+Revenue and profit of Product line by Class:
+- Product line "Mountain" has the largest revenue and profit in High Class.
+- Product line "Road" has the highest revenue in Medium and Low Class.
+
+Profit and Average of Discount by Subcategory. There are 5 Subcategories and each Subcategory has a different average of unit price discount: Touring Bikes has the largest average of unit price discount (1.86%) and Road Frames the lowest (0%).
+
+In general, there are several reasons that customers decide to purchase such as price, promotion, manufacturer, review and television advertisement. But the number of customer orders based on the product's price is the highest (17,473 orders), resulting in the largest profit from this customer group ($4,620,137.01).
+
+
 ### 2.4 RFM Analysis
+RFM is a technique used to prioritize customers. RFM stands for recency, frequency, and monetary.
+- Recency (R) tells us when is the latest purchase date.
+- Frequency (F) tells us how frequently do they make purchases.
+- Monetary (M) tells us how large their total spending is made. Actually, it is customer lifetime value.
+
+To define RFM score on a scale of 1–5 for each customer in terms of recency, frequency, and monetary value. 1 is the lowest and 5 is the highest.
+
+After calculating R, F, M scores, customers can be divided into 11 groups:
+- Champions: Bought recently, buy often and spend the most!
+- Loyal Customers: Spend good money often. Responsive to promotions.
+- Potential Loyalist: Recent customers, but spent a good amount and bought more than once.
+- Recent Customers: Bought most recently, but most often.
+- Promising: Recent shoppers, but haven't spent much.
+- Customer Needing Attention: Above average recency, frequency and monetary values. May not have bought very recently though.
+- About to Sleep: Below average recency, frequency and monetary values. Will lose them if not reactives.
+- At Risk: Spent big money and purchased often. But long time ago. Need to bring them back!
+- Can't Loose Them: Made biggest purchases and often. But havenn't returned for a long time.
+- Hibernating: Last purchase was long back, low spenders and low number of orders.
+- Lost: Lowest recency, frequency and monetary scores.
+  
 ![RFM](https://github.com/phuonght3001/AdventureWorks-Customer-Analysis---Power-BI/assets/150796721/9aa23aab-9145-4c92-b6f4-9aba6c5d7097)
+The Promising and Recent Customers group accounts for the largest number, approximately 2.84K customers.
+
+The Customer Needing Attention group accounts for the smallest number (224 customers).
+
+The Champions group contributed the largest revenue ($40,732,214.65).
+
+The At Risk group accounted for the largest profit ($2,740,729.69) but had less revenue than the Champions group. Therefore, there needs to have reasonable programs and policies to attract customers in this group back to the company.
+
 ## 3. Recommendations
+Through the above analysis, there will be 3 groups of solutions for each problem.
+### 3.1 Customer Profiling:
+- The number of customers with Middle Yearly Income Level accounts for the largest proportion: More product models need to be offered to suit the spending and needs of this group of people.
+- It is necessary to have appropriate marketing forms and customer appreciation programs for each age group: research preferences, needs for suitable products, and shopping habits.
+### 3.2 Customer Behavior:
+- Offer product samples with colors and prices that are most popular with customers.
+- Improve methods of approaching customer shopping needs such as promotion, review, manufacturer, and TV ad programs.
+### 3.3 For customer segments according to RFM scores:
+- Champions: Has loyalty programs with special and highly personalized values. Besides, this group of customers already has high trust and commitment to the brand, the company does not need to attract them with promotional discounts => Instead, increase CLTV (Lifetime Value). of customers) by recommending items with greater value, product combos based on predictions from order history.
+- Loyal Customes and Potential Loyalists: Propose incentives tied to spending levels (eg: free gifts for transactions above the brand's average order value or referral programs,...).
+- Recent and Promising: Need a thorough and highly personalized care process => build relationships: For example: get feedback on first order experience, give discount vouchers for future purchases .
+- Customers Needing Attention and At risk: Need to conduct surveys to find out the reasons why they do not return and provide solutions.
+- About to Sleep, Hibernating and Lost: Can send emails, interact via Social Media or call to reconnect with these customers. Businesses can implement programs such as vouchers, exclusive discounts, etc.
 
